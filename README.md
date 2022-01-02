@@ -1,2 +1,2 @@
 # MerveNurYazanel_Homeworks
-Akbank Full Stack Bootcamp Homemworks
+Akbank Full Stack Bootcamp Homeworks
